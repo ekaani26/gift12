@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Mystery Box Experience",
+  "description": "Mobile web experience featuring intro video, custom animated mystery box opening, name registration, and interactive rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
